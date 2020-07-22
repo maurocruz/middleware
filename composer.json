@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Plinct\\Middleware": "src/"
+            "Plinct\\Middleware\\": "src/"
         }        
     },
     "require": {    
